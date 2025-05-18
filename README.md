@@ -46,7 +46,8 @@ Customer Support:  If Sarah encounters any issues during the ride, she can conta
 
 
 Technical Architecture:
-![image](https://github.com/user-attachments/assets/eab71632-6d41-4669-8bb0-c29c9e1c16b0)
+![image](https://github.com/user-attachments/assets/fd770caa-281b-42e5-b7e1-791bdb8239bf)
+
 
 • User Interface: The intuitive web interface that allows users to interact with the system, enabling them to explore destinations, select activities, and complete bookings effortlessly.	
 
@@ -208,7 +209,8 @@ Customer Problem Statement Template:
 Create a problem statement to understand your customer's point of view. The Customer Problem Statement template helps you focus on what matters to create experiences people will love.
 A well-articulated customer problem statement allows you and your team to find the ideal solution for the challenges your customers face. Throughout the process, you’ll also be able to empathize with your customers, which helps you better understand how they perceive your product or service.
 
-  ![image](https://github.com/user-attachments/assets/c55e65f1-669a-444e-a88c-5b80cf1fe476)
+ ![Screenshot (113)](https://github.com/user-attachments/assets/65ca508b-659f-418f-8a17-d332de0342ce)
+
 
 Ideation Phase
 Empathize & Discover
@@ -224,11 +226,13 @@ An empathy map is a simple, easy-to-digest visual that captures knowledge about 
 It is a useful tool to helps teams better understand their users.
 Creating an effective solution requires understanding the true problem and the person who is experiencing it. The exercise of creating the map helps participants consider things from the user’s perspective along with his or her goals and challenges.
  
-![image](https://github.com/user-attachments/assets/b9b9ee73-34fb-451c-9645-e7f33b050277)
+![image](https://github.com/user-attachments/assets/6b5d4d5f-af70-4dc8-bdf8-a40b9c1c7a4a)
+
 
 screenshots
 
-![ride screenshot](https://github.com/user-attachments/assets/2607519a-e2aa-4030-8576-5e6d895154b9)
-![May 6, 2025, 11_15_18 AM](https://github.com/user-attachments/assets/e609d203-8107-4f80-bda4-7693e8aef27f)
+![ride screenshot](https://github.com/user-attachments/assets/ef285fd3-909b-4cd0-a21f-242f9168f355)
+![RideReady App_ Vehicle Options and Map](https://github.com/user-attachments/assets/4b2e558e-59e5-4bdd-b500-72b5081e3c46)
+
 
 
